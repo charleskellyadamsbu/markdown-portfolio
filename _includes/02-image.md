@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Meme](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wikipedia_meme_vector_version.svg/1200px-Wikipedia_meme_vector_version.svg.png)
